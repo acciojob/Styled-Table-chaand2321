@@ -1,1 +1,8 @@
 /* your code */
+.white{
+	background-color:#E6E6FA;
+}
+#table{
+	border-collapse:collapse;
+	border-radius:20px
+}
